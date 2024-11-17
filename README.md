@@ -30,4 +30,4 @@ eb create (create application and environment)
 eb deploy
 
 ## Application url
-http://filtered-image.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://demo.sirv.com/chair.jpg
+http://node-filtered-image.us-east-1.elasticbeanstalk.com/
